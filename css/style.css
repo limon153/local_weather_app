@@ -1,0 +1,54 @@
+html {
+  font-size: 30px;
+}
+
+body {
+  background-color: #42403F;
+  color: #fff;
+}
+
+.content {
+  text-align: center;
+}
+
+.header {
+  margin: 20px 0;
+  font-size: 2rem;
+}
+
+.location {
+  margin-bottom: 15px;
+}
+
+.temp {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #667EF2;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: .5;
+}
+
+.fahrenheit {
+  content: 'F';
+}
+
+.status {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.weather-logo {
+  width: 100px;
+  margin: auto;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.copyright {
+  font-size: 0.5rem;
+}
